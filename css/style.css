@@ -1,0 +1,67 @@
+body {
+    width: 70%;
+    margin: 0 auto;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    margin: 50px 0;
+}
+
+.retour {
+    border: none;
+    text-align: left;
+}
+
+.form {
+    width: 69%;
+    float: left;
+    border: 1px solid black;
+    border-top: none;
+}
+
+.recap {
+    width: 29%;
+    float: right;
+    border: 1px solid black;
+    border-top: none;
+}
+
+.button {
+    text-align: center;
+    justify-content: center;
+    margin: 20px 0;
+    background-color: #02AFBC;
+    color: white;
+    border: none;
+    width: 200px;
+}
+
+.nav-title {
+    text-decoration: none;
+    width: 33%;
+    text-align: center;
+    background-color: #9B9B9B;
+    color: white;
+}
+
+h4 {
+    font-size: 15px;
+    margin-top: 20px;
+}
+
+.form1 {
+    margin: 0 40px;
+}
+
+.select {
+    width: 500px;
+    height: 50px;
+    border-radius: 2%;
+    font-size: larger;
+}
+
+.form-control {
+    width: auto;
+}
